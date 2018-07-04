@@ -15,7 +15,7 @@
   // For the full list of rules, see: http://eslint.org/docs/rules/
   "rules": {
     "complexity": [2, 55],
-    "max-statements": [2, 115],
+    "max-statements": [2, 200],
     "no-unreachable": 1,
     "no-useless-escape": 0,
 
