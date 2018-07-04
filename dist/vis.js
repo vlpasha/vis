@@ -5,7 +5,7 @@
  * A dynamic, browser-based visualization library.
  *
  * @version 4.21.0
- * @date    2018-07-03
+ * @date    2018-07-04
  *
  * @license
  * Copyright (C) 2011-2017 Almende B.V, http://almende.com
@@ -37182,13 +37182,15 @@ var allOptions = {
       borderRadius: { string: string },
       boxShadow: { string: string },
       padding: { string: string },
-      __type__: { object: object }
+      __type__: { object: object },
+      display: { string: string }
     },
     line: {
       borderLeft: { string: string },
       height: { string: string },
       width: { string: string },
-      __type__: { object: object }
+      __type__: { object: object },
+      display: { string: string }
     },
     dot: {
       border: { string: string },
