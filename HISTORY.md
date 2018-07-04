@@ -2,6 +2,11 @@
 http://visjs.org
 
 
+## 2018-07-4, version 4.22.0
+
+### Graph3D
+- Added X and Y axes dynamic labels
+
 ## 2017-10-12, version 4.21.0
 
 ### General
