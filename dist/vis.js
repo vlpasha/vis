@@ -34608,18 +34608,21 @@ Graph3d.DEFAULTS = {
       color: '#1a1a1a',
       background: 'rgba(255,255,255,0.7)',
       borderRadius: '2px',
-      boxShadow: '5px 5px 10px rgba(128,128,128,0.5)'
+      boxShadow: '5px 5px 10px rgba(128,128,128,0.5)',
+      display: 'block'
     },
     line: {
       height: '40px',
       width: '0',
-      borderLeft: '1px solid #4d4d4d'
+      borderLeft: '1px solid #4d4d4d',
+      display: 'block'
     },
     dot: {
       height: '0',
       width: '0',
       border: '5px solid #4d4d4d',
-      borderRadius: '5px'
+      borderRadius: '5px',
+      display: 'block'
     }
   },
 
